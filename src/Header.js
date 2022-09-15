@@ -12,6 +12,7 @@ import { auth } from "./firebase";
 import { logout } from "./features/userSlice";
 
 function Header() {
+
 	const dispatch = useDispatch();
 	const logoutOfApp = () => {
 		dispatch(logout())
@@ -36,7 +37,7 @@ function Header() {
 				<HeaderOption Icon={BusinessCenterIcon} title="Jobs" />
 				<HeaderOption Icon={ChatIcon} title='Messaging' />
 				<HeaderOption Icon={NotificationsIcon} title='Notifications' />
-				<HeaderOption avatar="../public/profilepic.jpg" title='me' onClick={logoutOfApp} /> {/* https://links.papareact.com/gll */}
+				<HeaderOption avatar={true} title='me' onClick={logoutOfApp} /> {/* https://links.papareact.com/gll */}
 
 
 			</div>
