@@ -2,8 +2,7 @@
 
 ### <a href="https://fdrive-linkedin-clone.netlify.app/">LIVE DEMO</a>
 
-![Screen Shot 2022-09-14 at 23 35 55 PM](https://user-images.githubusercontent.com/72363705/190332415-c4536d08-cf4d-4ec8-b917-6c2f9a3c4164.png)
-
+![Screen Shot 2022-09-14 at 23 38 17 PM](https://user-images.githubusercontent.com/72363705/190332911-f049728f-b9a8-4c96-969f-3b043ce57d61.png)
 
 # Getting Started with Create React App and Redux
 
