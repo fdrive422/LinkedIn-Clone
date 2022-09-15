@@ -1,3 +1,10 @@
+# Linkedin Clone - built with ReactJS, Redux, Firebase
+
+### <a href="https://fdrive-linkedin-clone.netlify.app/">LIVE DEMO</a>
+
+![Screen Shot 2022-09-14 at 23 35 55 PM](https://user-images.githubusercontent.com/72363705/190332415-c4536d08-cf4d-4ec8-b917-6c2f9a3c4164.png)
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
