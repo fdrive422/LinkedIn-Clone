@@ -23,8 +23,9 @@ function Widgets() {
 				<InfoIcon />
 			</div>
 			{newsArticle("Trending social media app", "Top news - 922 readers")}
-			{newsArticle("Coronavirus Vaccine: LA update", "Top news - 755 readers")}
-			{newsArticle("Bitcoin Breaks $22k", "Crypto - 6754 readers")}
+			{newsArticle("Bitcoin Breaks $22k", "Crypto - 854 readers")}
+			{newsArticle("Top Gun Maverick sets box office records", "Entertainment -789 readers")}
+			{newsArticle("Coronavirus Vaccine: LA update", "Top news - 675 readers")}
 			{newsArticle("Is Redux too good", "Tech Code - 573 readers")}
 		</div>
 	);
