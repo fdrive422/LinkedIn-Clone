@@ -1,4 +1,6 @@
-# Linkedin Clone - built with ReactJS, Redux, Firebase
+# Linkedin Clone
+
+### Built with ReactJS, Redux, Firebase
 
 ### <a href="https://fdrive-linkedin-clone.netlify.app/">LIVE DEMO</a>
 
